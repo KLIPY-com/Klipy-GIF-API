@@ -2,7 +2,7 @@
 
 ![487793374_891614129680286_3781410314365677251_n (1)](https://github.com/user-attachments/assets/7343484d-939b-4394-95c2-13e0e0c7c17b)
 
-Welcome to the official GitHub repository for the integration of KLIPY's API services! KLIPY provides a range of animated content APIs that allow developers to integrate GIFs, Stickers, Clips and Memes seamlessly into their apps, websites, and platforms. Our APIs help messengers, keyboards, media and dating Apps to monetize user engagement by placing ads between the content.  KLIPY also provides an AI-localization feature that shows local content to users in GIF Trending Tab. This feature increases the user engagement with up to 3-4X times.
+Welcome to the official GitHub repository for the integration of [KLIPY's]([https://klipy.com/]) API services! KLIPY provides a range of animated content APIs that allow developers to integrate GIFs, Stickers, Clips and Memes seamlessly into their apps, websites, and platforms. Our APIs help messengers, keyboards, media and dating Apps to monetize user engagement by placing ads between the content.  KLIPY also provides an AI-localization feature that shows local content to users in GIF Trending Tab. This feature increases the user engagement with up to 3-4X times.
 
 Explore our API Services below.
 
