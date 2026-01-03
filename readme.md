@@ -4,7 +4,15 @@
 
 Welcome to the official GitHub repository for the integration of [KLIPY's](https://klipy.com/) API services! KLIPY provides a range of animated content APIs that allow developers to integrate GIFs, Stickers, Clips and Memes seamlessly into their apps, websites, and platforms. Our APIs help messengers, keyboards, media and dating Apps to monetize user engagement by placing ads between the content.  KLIPY also provides an AI-localization feature that shows local content to users in GIF Trending Tab. This feature increases the user engagement with up to 3-4X times.
 
-Explore our API Services below.
+## Integration Options.
+
+To simplify the integration process, choose the path that best fits your needs:
+
+### Migrating from Tenor?
+- If you are already using the Tenor GIF API or Stickers API and want to replace it with KLIPY in under 10 seconds, please visit our [Migration Guide Repository](https://github.com/klipycom/Migrate-From-Tenor-To-Klipy). 
+
+### Building a New Integration? 
+- If you are building from scratch, explore our API Services below and easily integrate KLIPY.
 
 ## KLIPY API Products
 
